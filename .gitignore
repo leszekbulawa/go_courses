@@ -1,0 +1,5 @@
+# osx trash
+.DS_Store
+
+# binaries
+bin
